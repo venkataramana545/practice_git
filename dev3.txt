@@ -1,0 +1,3 @@
+this is dev file3
+
+removed the unwanted data
